@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @NEd888
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-NEd888/NEd888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Mahim Gupta, a CS Sophomore at IIIT Pune.
+- 👀 I’m interested in Open Source Contribuition and Blockchain Development.
+- 📫 Find Me: [Gmail](mailto:mahim.g03@gmail.com)
